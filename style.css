@@ -123,3 +123,13 @@ nav{
     display: grid;
     box-shadow: var(--dark-shadow);
 }
+
+
+.nav-center {
+    width: 90vw;
+    max-width: var(--fixed-width);
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
