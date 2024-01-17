@@ -155,3 +155,9 @@ nav a {
 nav a:hover {
     color: var(--clr-primary-5)
 }
+
+main {
+    min-height: calc(100vh - 3rem);
+    display: grid;
+    place-items: center;
+}
