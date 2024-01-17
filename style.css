@@ -47,7 +47,7 @@
     padding: 0;
     margin:0;
     font-family: 'Open Sans', sans-serif;
- }
+}
 
 body {
     font-family: var(--ff-secondary);
@@ -55,4 +55,12 @@ body {
     color:var(--clr-grey-1);
     line-height: 1.5;
     font-size: 0.875rem;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
 }
