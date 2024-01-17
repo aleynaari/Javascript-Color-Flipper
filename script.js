@@ -4,7 +4,7 @@ const color = document.querySelector(".color");
 
 btn.addEventListener("click", function () {
     // get randm number between 0 - 3
-    const randomNumber = 2;
+    const randomNumber = getRandomNumber();
     console.log(randomNumber);
 
     document.body.style.backgroundColor = colors[randomNumber];
