@@ -174,3 +174,7 @@ main {
     border-radius: var(--radius);
     margin-bottom: 2.5rem;
 }
+
+.color {
+    color: var(--clr-primary-5);
+}
