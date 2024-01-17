@@ -113,3 +113,13 @@ p {
       line-height: 1;
     }
 }
+
+
+/*Nav*/
+nav{
+    background: var(--clr-white);
+    height: 3rem;
+    align-items: center;
+    display: grid;
+    box-shadow: var(--dark-shadow);
+}
